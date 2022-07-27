@@ -15,7 +15,7 @@
 ### GG küldése: Lana gg @említés
 ### Köszönet nyilvánítás: Lana 10q @említés
 ### Szeretlek kifejezése: Lana szeretlek @említés
-### Rászólás valakire (nem figyelmeztetés): Lana szólj rá
+### Rászólás valakire (nem figyelmeztetés): Lana szólj rá @említés
 ### Rendben: Lana ok @említés
 ## Zene
 ### Új zene: Lana z [YouTube link vagy keresési érték]
