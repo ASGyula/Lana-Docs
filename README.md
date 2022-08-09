@@ -2,6 +2,7 @@
 🤍 Sütök, főzök, segítek, ha baj van, igyekszem, hogy mindig a legjobbat adjam! 🤍
 
 # Gyakran használt parancsok
+### *A Lana előtag a következőkkel helyettesíthető: ".", "!", "/", azonban ilyenkor nem kell szóközt tenni az előtag és a parancs közé
 ## Moderáció
 ### Kirúgás: Lana kick @említés [indok]
 ### Felhasználói adatok lekérése: Lana i @említés
